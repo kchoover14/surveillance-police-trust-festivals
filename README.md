@@ -15,10 +15,11 @@ This repo contains data, scripts, and supplementary materials for research on su
   - Steve Graham, School of Architecture, Planning and Landscape, Newcastle University (Smart Festivals paper only)
 
 **Data for Smart Festivals**
+Survey data were imported from Survey Monkey and cleaned and analyzed in R by JCB.
 https://figshare.com/articles/dataset/Surveillance_Anxiety_survey_data/7364576
 
 **Data for Surveillance Trust**
-Survey data were imported from Survey Monkey and cleaned by JCB. The data in the Excel spreadsheet in this repository are found on three tabs: 
+Survey data were imported from Survey Monkey and cleaned by JCB. Data were analyzed by KCH and scripts are found in this repository. The data in the Excel spreadsheet in this repository are found on three tabs: 
  - original survey data
  - qualitative data from write-in responses
  - and the data used for analysis.
